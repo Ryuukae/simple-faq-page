@@ -1,4 +1,4 @@
-<!-- Please update value in the {}  -->
+[//]: # (README.md)
 
 <h1 align="center">Simple-FAQ-Challenge | devChallenges</h1>
 
@@ -34,13 +34,13 @@ target="_blank">devChallenges.io</a>
 - - 
 
 - [Overview](#overview)
-  - [Project Structure](#package-structure)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Features](#features)
+  - [Project Structure](#project-structure)
   - [Built with](#built-with)
 - [Author Credits](#author-credits) 
-  - [Contact](#contact)
+- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
                  
 <!-- OVERVIEW -->
